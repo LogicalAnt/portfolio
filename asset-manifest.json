@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f74d0aac.chunk.css",
-    "main.js": "/portfolio/static/js/main.b81bd191.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b81bd191.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
-    "static/js/2.d671869d.chunk.js": "/portfolio/static/js/2.d671869d.chunk.js",
-    "static/js/2.d671869d.chunk.js.map": "/portfolio/static/js/2.d671869d.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.9312f26a9d4c062893be137bb016abc1.js": "/portfolio/precache-manifest.9312f26a9d4c062893be137bb016abc1.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.f74d0aac.chunk.css.map": "/portfolio/static/css/main.f74d0aac.chunk.css.map",
-    "static/js/2.d671869d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d671869d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/portfolio/static/media/app-bg.f9877b0f.jpg",
-    "static/media/sidebar-image.jpeg": "/portfolio/static/media/sidebar-image.63a94cc8.jpeg"
+    "main.css": "/static/css/main.36e3cc7e.chunk.css",
+    "main.js": "/static/js/main.d0c174a0.chunk.js",
+    "main.js.map": "/static/js/main.d0c174a0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
+    "static/js/2.d671869d.chunk.js": "/static/js/2.d671869d.chunk.js",
+    "static/js/2.d671869d.chunk.js.map": "/static/js/2.d671869d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b763320d1ec701b3186ad18f88766343.js": "/precache-manifest.b763320d1ec701b3186ad18f88766343.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.36e3cc7e.chunk.css.map": "/static/css/main.36e3cc7e.chunk.css.map",
+    "static/js/2.d671869d.chunk.js.LICENSE.txt": "/static/js/2.d671869d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/app-bg.f9877b0f.jpg",
+    "static/media/sidebar-image.jpeg": "/static/media/sidebar-image.63a94cc8.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.075c0788.js",
+    "static/js/runtime-main.ceaf4b5f.js",
     "static/js/2.d671869d.chunk.js",
-    "static/css/main.f74d0aac.chunk.css",
-    "static/js/main.b81bd191.chunk.js"
+    "static/css/main.36e3cc7e.chunk.css",
+    "static/js/main.d0c174a0.chunk.js"
   ]
 }
